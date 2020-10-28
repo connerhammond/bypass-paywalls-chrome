@@ -250,6 +250,10 @@
     "*://*.startribune.com/*",
     "*://*.df.cl/*",
     "*://*.financialpost.com/*"
+    "*://*.courier-journal.com/*",
+    "*://*.theparisreview.org/*",
+    "*://*.sciencemag.org/*",
+    "*://*.nature.com/*",
   ],
   "version": "1.7.7"
 }
